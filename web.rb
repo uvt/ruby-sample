@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Situs ini telah dihek oleh UVT"
+  "Situs Ini Telah Dihek oleh UVT"
 end
